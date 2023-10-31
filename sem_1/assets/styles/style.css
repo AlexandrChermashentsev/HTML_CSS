@@ -1,0 +1,22 @@
+.title {
+    font-size: 50px;
+    color: aqua;
+}
+.text {
+    background-color: yellowgreen;
+}
+.img_red_cat {
+    width: 20%;
+    height: 300px;
+}
+.title-catalog {
+    text-align: center;
+}
+.image_in_catalog {
+    float: right; 
+    margin: 0px 0px 0px 15px; 
+    width: 200px;
+}
+.end_item_in_catalog {
+    clear:both
+}
